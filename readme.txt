@@ -1,6 +1,5 @@
-Hello worlds
+Hello there
+My name is Viron.
 I am very happy you're reading this
-You a real one
-They aint believe in us.
-God did.
-On Jeezyy.
+This is my first repo!!!
+I am very happy and proud of what I have learned.
